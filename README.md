@@ -1,0 +1,2 @@
+# localconfig
+Contains file properties
